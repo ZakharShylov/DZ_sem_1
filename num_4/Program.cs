@@ -15,11 +15,11 @@ int c = int.Parse(Console.ReadLine()!);
 
 if (a > b)
 {
-    if (a > c )
+    if (a > c)
     {
         Console.WriteLine($"Максильное число: {a}");
     }
-    else 
+    else
     {
         Console.WriteLine($"Максильманое число: {b}");
     }
@@ -29,7 +29,7 @@ else if (b > c)
 {
     Console.WriteLine($"Максимальное число: {b}");
 }
-else 
+else
 {
     Console.WriteLine($"Максимальное число: {c} ");
 }

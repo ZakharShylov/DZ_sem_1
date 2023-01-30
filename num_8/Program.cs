@@ -8,12 +8,13 @@ int N = int.Parse(Console.ReadLine()!);
 
 int num = 1;
 
-while (num < N) 
+while (num < N)
 {
     num++;
-    if (num % 2 !=0 ){
+    if (num % 2 != 0)
+    {
 
     }
-    else Console.Write($"{ num }\n");
+    else Console.Write($"{num}\n");
 }
 
