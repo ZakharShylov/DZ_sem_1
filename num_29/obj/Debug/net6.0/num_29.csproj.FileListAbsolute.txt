@@ -1,0 +1,15 @@
+/Users/zakharshylov/Desktop/dz_semm_1/num_29/bin/Debug/net6.0/num_29
+/Users/zakharshylov/Desktop/dz_semm_1/num_29/bin/Debug/net6.0/num_29.deps.json
+/Users/zakharshylov/Desktop/dz_semm_1/num_29/bin/Debug/net6.0/num_29.runtimeconfig.json
+/Users/zakharshylov/Desktop/dz_semm_1/num_29/bin/Debug/net6.0/num_29.dll
+/Users/zakharshylov/Desktop/dz_semm_1/num_29/bin/Debug/net6.0/num_29.pdb
+/Users/zakharshylov/Desktop/dz_semm_1/num_29/obj/Debug/net6.0/num_29.csproj.AssemblyReference.cache
+/Users/zakharshylov/Desktop/dz_semm_1/num_29/obj/Debug/net6.0/num_29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zakharshylov/Desktop/dz_semm_1/num_29/obj/Debug/net6.0/num_29.AssemblyInfoInputs.cache
+/Users/zakharshylov/Desktop/dz_semm_1/num_29/obj/Debug/net6.0/num_29.AssemblyInfo.cs
+/Users/zakharshylov/Desktop/dz_semm_1/num_29/obj/Debug/net6.0/num_29.csproj.CoreCompileInputs.cache
+/Users/zakharshylov/Desktop/dz_semm_1/num_29/obj/Debug/net6.0/num_29.dll
+/Users/zakharshylov/Desktop/dz_semm_1/num_29/obj/Debug/net6.0/refint/num_29.dll
+/Users/zakharshylov/Desktop/dz_semm_1/num_29/obj/Debug/net6.0/num_29.pdb
+/Users/zakharshylov/Desktop/dz_semm_1/num_29/obj/Debug/net6.0/num_29.genruntimeconfig.cache
+/Users/zakharshylov/Desktop/dz_semm_1/num_29/obj/Debug/net6.0/ref/num_29.dll
