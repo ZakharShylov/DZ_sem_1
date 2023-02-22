@@ -1,0 +1,15 @@
+/Users/zakharshylov/Desktop/dz_semm_1/num_50/obj/Debug/net6.0/num_50.csproj.AssemblyReference.cache
+/Users/zakharshylov/Desktop/dz_semm_1/num_50/obj/Debug/net6.0/num_50.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zakharshylov/Desktop/dz_semm_1/num_50/obj/Debug/net6.0/num_50.AssemblyInfoInputs.cache
+/Users/zakharshylov/Desktop/dz_semm_1/num_50/obj/Debug/net6.0/num_50.AssemblyInfo.cs
+/Users/zakharshylov/Desktop/dz_semm_1/num_50/obj/Debug/net6.0/num_50.csproj.CoreCompileInputs.cache
+/Users/zakharshylov/Desktop/dz_semm_1/num_50/bin/Debug/net6.0/num_50
+/Users/zakharshylov/Desktop/dz_semm_1/num_50/bin/Debug/net6.0/num_50.deps.json
+/Users/zakharshylov/Desktop/dz_semm_1/num_50/bin/Debug/net6.0/num_50.runtimeconfig.json
+/Users/zakharshylov/Desktop/dz_semm_1/num_50/bin/Debug/net6.0/num_50.dll
+/Users/zakharshylov/Desktop/dz_semm_1/num_50/bin/Debug/net6.0/num_50.pdb
+/Users/zakharshylov/Desktop/dz_semm_1/num_50/obj/Debug/net6.0/num_50.dll
+/Users/zakharshylov/Desktop/dz_semm_1/num_50/obj/Debug/net6.0/refint/num_50.dll
+/Users/zakharshylov/Desktop/dz_semm_1/num_50/obj/Debug/net6.0/num_50.pdb
+/Users/zakharshylov/Desktop/dz_semm_1/num_50/obj/Debug/net6.0/num_50.genruntimeconfig.cache
+/Users/zakharshylov/Desktop/dz_semm_1/num_50/obj/Debug/net6.0/ref/num_50.dll
