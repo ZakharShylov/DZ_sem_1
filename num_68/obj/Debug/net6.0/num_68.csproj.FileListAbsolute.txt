@@ -1,0 +1,15 @@
+/Users/zakharshylov/Desktop/dz_semm_1/num_68/bin/Debug/net6.0/num_68
+/Users/zakharshylov/Desktop/dz_semm_1/num_68/bin/Debug/net6.0/num_68.deps.json
+/Users/zakharshylov/Desktop/dz_semm_1/num_68/bin/Debug/net6.0/num_68.runtimeconfig.json
+/Users/zakharshylov/Desktop/dz_semm_1/num_68/bin/Debug/net6.0/num_68.dll
+/Users/zakharshylov/Desktop/dz_semm_1/num_68/bin/Debug/net6.0/num_68.pdb
+/Users/zakharshylov/Desktop/dz_semm_1/num_68/obj/Debug/net6.0/num_68.csproj.AssemblyReference.cache
+/Users/zakharshylov/Desktop/dz_semm_1/num_68/obj/Debug/net6.0/num_68.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zakharshylov/Desktop/dz_semm_1/num_68/obj/Debug/net6.0/num_68.AssemblyInfoInputs.cache
+/Users/zakharshylov/Desktop/dz_semm_1/num_68/obj/Debug/net6.0/num_68.AssemblyInfo.cs
+/Users/zakharshylov/Desktop/dz_semm_1/num_68/obj/Debug/net6.0/num_68.csproj.CoreCompileInputs.cache
+/Users/zakharshylov/Desktop/dz_semm_1/num_68/obj/Debug/net6.0/num_68.dll
+/Users/zakharshylov/Desktop/dz_semm_1/num_68/obj/Debug/net6.0/refint/num_68.dll
+/Users/zakharshylov/Desktop/dz_semm_1/num_68/obj/Debug/net6.0/num_68.pdb
+/Users/zakharshylov/Desktop/dz_semm_1/num_68/obj/Debug/net6.0/num_68.genruntimeconfig.cache
+/Users/zakharshylov/Desktop/dz_semm_1/num_68/obj/Debug/net6.0/ref/num_68.dll
